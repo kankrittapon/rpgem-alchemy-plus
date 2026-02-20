@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "rpgem_alchemy:block/alchemy_table"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+[20Feb2026 08:28:48.697] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mod, rpgem_alchemy, --all, --output, D:\MinecraftModding\rpgem-alchemy-plus\src\generated\resources, --existing, D:\MinecraftModding\rpgem-alchemy-plus\src\main\resources, --launchTarget, forgedatadev, --assetIndex, asset-index, --assetsDir, C:\Users\telep\.gradle\caches\minecraft\assets, --gameDir, ., --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoForgeVersion, 21.1.217, --fml.neoFormVersion, 20240808.144430]
+[20Feb2026 08:28:48.701] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.10+7-LTS
+[20Feb2026 08:28:48.703] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.10 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[20Feb2026 08:28:48.853] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatadev
+[20Feb2026 08:28:48.939] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/telep/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23142!/ Service=ModLauncher Env=CLIENT
+[20Feb2026 08:28:49.067] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217.jar" [locator: neoforge devenv provider ([D:\MinecraftModding\rpgem-alchemy-plus\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.1.217\neoforge-21.1.217.jar])]
+[20Feb2026 08:28:49.116] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217.jar" [locator: neoforge devenv provider ([D:\MinecraftModding\rpgem-alchemy-plus\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.1.217\neoforge-21.1.217.jar])]
+[20Feb2026 08:28:49.145] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "main" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.162] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.168] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rpgem_forging-1.0.0.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.175] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rpgem-fairy-plus-1.0.0.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.183] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rpgem_core-1.0.0.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.190] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.7.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.197] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.21.0.247.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.203] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.4.0+1.21.1.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.288] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [locator: userdev mods and services, reader: mod manifest]
+[20Feb2026 08:28:49.550] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:mixinextras.neoforge. Using Mod File: C:\Users\telep\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.5.0\d734b83ce6542bb70ea31755c1595b88992dbe65\mixinextras-neoforge-0.5.0.jar
+[20Feb2026 08:28:49.550] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[20Feb2026 08:28:49.550] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.217.jar" [parent: neoforge-21.1.217.jar, locator: jarinjar, reader: mod manifest]
+[20Feb2026 08:28:49.553] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Curios API 9.4.0+1.21.1 (curios)
+		GeckoLib 4 4.7 (geckolib)
+		Just Enough Items 19.21.0.247 (jei)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.217 (neoforge)
+		RPGEM Alchemy+ 1.0.0 (rpgem_alchemy)
+		RPGEM Core 1.0.0 (rpgem_core)
+		RPGEM Fairy Plus 1.0.0 (rpgem_fairy)
+		RPGEM Forging+ 1.0.0 (rpgem_forging)
+[20Feb2026 08:28:50.395] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[20Feb2026 08:28:50.419] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatadev' with arguments [--gameDir, ., --assetsDir, C:\Users\telep\.gradle\caches\minecraft\assets, --mod, rpgem_alchemy, --all, --output, D:\MinecraftModding\rpgem-alchemy-plus\src\generated\resources, --existing, D:\MinecraftModding\rpgem-alchemy-plus\src\main\resources, --assetIndex, asset-index]
+[20Feb2026 08:28:50.511] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2026 08:28:50.513] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2026 08:28:50.514] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2026 08:28:51.774] [main/INFO] [net.neoforged.neoforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [rpgem_alchemy]
+[20Feb2026 08:28:51.796] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[20Feb2026 08:28:56.804] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.fairy.RPGEMFairy/]: RPGEM Fairy+ Initializing...
+[20Feb2026 08:28:56.804] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.core.RPGEMCore/]: RPGEM Core Initializing...
+[20Feb2026 08:28:56.840] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.fairy.RPGEMFairy/]: RPGEM Fairy+ Initialized successfully.
+[20Feb2026 08:28:56.847] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.217, for MC 1.21.1
+[20Feb2026 08:28:56.862] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.core.RPGEMCore/]: RPGEM Core Initialized
+[20Feb2026 08:28:56.867] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.forging.RPGEMForging/]: RPGEM Forging+ Initializing...
+[20Feb2026 08:28:56.886] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.forging.RPGEMForging/]: RPGEM Forging+ Initialized successfully.
+[20Feb2026 08:28:56.890] [modloading-worker-0/INFO] [net.kankrittapon.rpgem.alchemy.RPGEMAlchemy/]: Initializing RPGEM Alchemy+
+[20Feb2026 08:28:57.011] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[20Feb2026 08:28:57.019] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 5.715 ms
+[20Feb2026 08:28:57.294] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity rpgem_fairy:fairy has no attributes
+[20Feb2026 08:28:57.394] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/MinecraftModding/rpgem-alchemy-plus/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.1.217/neoforge-21.1.217.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[20Feb2026 08:28:57.394] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/MinecraftModding/rpgem-alchemy-plus/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.1.217/neoforge-21.1.217.jar%23195!/data/.mcassetsroot' uses unexpected schema
+[20Feb2026 08:28:57.669] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id rpgem_alchemy
+[20Feb2026 08:28:57.716] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id rpgem_alchemy finished after 46 ms
+[20Feb2026 08:28:57.716] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 47 ms
+[20Feb2026 08:28:57.720] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 1, old count: 0, new count: 2, removed stale: 0, written: 1

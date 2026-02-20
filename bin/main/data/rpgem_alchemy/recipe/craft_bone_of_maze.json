@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "rpgem_alchemy:piece_of_bone"
+        }
+    },
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "result": {
+        "count": 1,
+        "id": "rpgem_alchemy:bone_of_maze"
+    }
+}

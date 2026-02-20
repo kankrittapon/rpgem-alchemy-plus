@@ -1,0 +1,81 @@
+> Task :rpgem-core:neoFormListLibraries UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormListLibraries UP-TO-DATE
+> Task :rpgem-core:cacheVersionManifest1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionManifest1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionExecutableClient1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionExecutableClient1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionExecutableServer1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionExtractedServer1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionExecutableServer1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionMappingsClient1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionExtractedServer1.21.1 UP-TO-DATE
+> Task :rpgem-core:create1.21.1ClientExtraJar UP-TO-DATE
+> Task :rpgem-core:selectRawArtifactNg_dummy_ng.net.minecraft_client_1.21.1_client-extra UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionMappingsClient1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:create1.21.1ClientExtraJar UP-TO-DATE
+> Task :rpgem-forging-plus:selectRawArtifactNg_dummy_ng.net.minecraft_client_1.21.1_client-extra UP-TO-DATE
+> Task :rpgem-core:neoFormListTransformLibraries UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormListTransformLibraries UP-TO-DATE
+> Task :rpgem-core:neoFormStripClient UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormStripClient UP-TO-DATE
+> Task :rpgem-core:neoFormStripServer UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormStripServer UP-TO-DATE
+> Task :rpgem-core:neoFormMerge UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormMerge UP-TO-DATE
+> Task :rpgem-core:neoFormMergeMappings UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormMergeMappings UP-TO-DATE
+> Task :rpgem-core:neoFormRename UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormRename UP-TO-DATE
+> Task :rpgem-core:neoFormDecompile UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormDecompile UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormInject UP-TO-DATE
+> Task :rpgem-core:neoFormInject UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormPatch UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormPatchUserDev UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormTransformSource UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormRecompile UP-TO-DATE
+> Task :rpgem-forging-plus:supplyRawJarForneoFormJoined1.21.1-20240808.144430 UP-TO-DATE
+> Task :rpgem-forging-plus:selectRawArtifactNg_dummy_ng.net.neoforged_neoforge_21.1.217 UP-TO-DATE
+> Task :rpgem-core:neoFormPatch UP-TO-DATE
+> Task :rpgem-core:neoFormPatchUserDev UP-TO-DATE
+> Task :rpgem-core:neoFormTransformSource UP-TO-DATE
+> Task :rpgem-core:neoFormRecompile UP-TO-DATE
+> Task :rpgem-core:supplyRawJarForneoFormJoined1.21.1-20240808.144430 UP-TO-DATE
+> Task :rpgem-core:selectRawArtifactNg_dummy_ng.net.neoforged_neoforge_21.1.217 UP-TO-DATE
+> Task :rpgem-core:compileJava UP-TO-DATE
+> Task :rpgem-forging-plus:compileJava UP-TO-DATE
+> Task :clean
+> Task :neoFormListLibraries FROM-CACHE
+> Task :cacheVersionManifest1.21.1 UP-TO-DATE
+> Task :cacheVersionExecutableClient1.21.1 UP-TO-DATE
+> Task :cacheVersionExecutableServer1.21.1 UP-TO-DATE
+> Task :cacheVersionExtractedServer1.21.1 UP-TO-DATE
+> Task :cacheVersionMappingsClient1.21.1 UP-TO-DATE
+> Task :create1.21.1ClientExtraJar FROM-CACHE
+> Task :selectRawArtifactNg_dummy_ng.net.minecraft_client_1.21.1_client-extra UP-TO-DATE
+> Task :neoFormListTransformLibraries FROM-CACHE
+> Task :neoFormStripClient FROM-CACHE
+> Task :neoFormStripServer FROM-CACHE
+> Task :neoFormMerge FROM-CACHE
+> Task :neoFormMergeMappings FROM-CACHE
+> Task :neoFormRename FROM-CACHE
+> Task :neoFormDecompile FROM-CACHE
+> Task :neoFormInject FROM-CACHE
+> Task :neoFormPatch FROM-CACHE
+> Task :neoFormPatchUserDev FROM-CACHE
+> Task :neoFormTransformSource FROM-CACHE
+> Task :neoFormRecompile FROM-CACHE
+> Task :supplyRawJarForneoFormJoined1.21.1-20240808.144430
+> Task :selectRawArtifactNg_dummy_ng.net.neoforged_neoforge_21.1.217 UP-TO-DATE
+> Task :compileJava FROM-CACHE
+
+[Incubating] Problems report is available at: file:///D:/MinecraftModding/rpgem-alchemy-plus/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.2.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 28s
+70 actionable tasks: 2 executed, 15 from cache, 53 up-to-date

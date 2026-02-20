@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "rpgem_alchemy:block/alchemy_table"
+    }
+}

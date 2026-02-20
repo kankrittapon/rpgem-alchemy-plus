@@ -1,0 +1,1264 @@
+> Task :rpgem-core:neoFormListLibraries UP-TO-DATE
+> Task :rpgem-core:cacheVersionManifest1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionExecutableClient1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionExecutableServer1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionExtractedServer1.21.1 UP-TO-DATE
+> Task :rpgem-core:cacheVersionMappingsClient1.21.1 UP-TO-DATE
+> Task :rpgem-core:create1.21.1ClientExtraJar UP-TO-DATE
+> Task :rpgem-core:selectRawArtifactNg_dummy_ng.net.minecraft_client_1.21.1_client-extra UP-TO-DATE
+> Task :neoFormListLibraries UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormListLibraries UP-TO-DATE
+> Task :cacheVersionManifest1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionManifest1.21.1 UP-TO-DATE
+> Task :cacheVersionExecutableClient1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionExecutableClient1.21.1 UP-TO-DATE
+> Task :cacheVersionExecutableServer1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionExecutableServer1.21.1 UP-TO-DATE
+> Task :cacheVersionExtractedServer1.21.1 UP-TO-DATE
+> Task :rpgem-core:neoFormListTransformLibraries UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionExtractedServer1.21.1 UP-TO-DATE
+> Task :cacheVersionMappingsClient1.21.1 UP-TO-DATE
+> Task :rpgem-forging-plus:cacheVersionMappingsClient1.21.1 UP-TO-DATE
+> Task :rpgem-core:neoFormStripClient UP-TO-DATE
+> Task :create1.21.1ClientExtraJar UP-TO-DATE
+> Task :rpgem-forging-plus:create1.21.1ClientExtraJar UP-TO-DATE
+> Task :selectRawArtifactNg_dummy_ng.net.minecraft_client_1.21.1_client-extra UP-TO-DATE
+> Task :rpgem-forging-plus:selectRawArtifactNg_dummy_ng.net.minecraft_client_1.21.1_client-extra UP-TO-DATE
+> Task :rpgem-core:neoFormStripServer UP-TO-DATE
+> Task :rpgem-core:neoFormMerge UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormListTransformLibraries UP-TO-DATE
+> Task :neoFormListTransformLibraries UP-TO-DATE
+> Task :rpgem-core:neoFormMergeMappings UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormStripClient UP-TO-DATE
+> Task :neoFormStripClient UP-TO-DATE
+> Task :neoFormStripServer UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormStripServer UP-TO-DATE
+> Task :rpgem-core:neoFormRename UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormMerge UP-TO-DATE
+> Task :neoFormMerge UP-TO-DATE
+> Task :rpgem-core:neoFormDecompile UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormMergeMappings UP-TO-DATE
+> Task :neoFormMergeMappings UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormRename UP-TO-DATE
+> Task :neoFormRename UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormDecompile UP-TO-DATE
+> Task :neoFormDecompile UP-TO-DATE
+> Task :neoFormInject UP-TO-DATE
+> Task :rpgem-core:neoFormInject UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormInject UP-TO-DATE
+> Task :neoFormPatch UP-TO-DATE
+> Task :neoFormPatchUserDev UP-TO-DATE
+> Task :rpgem-core:neoFormPatch UP-TO-DATE
+> Task :rpgem-core:neoFormPatchUserDev UP-TO-DATE
+> Task :rpgem-core:neoFormTransformSource UP-TO-DATE
+> Task :rpgem-core:neoFormRecompile UP-TO-DATE
+> Task :rpgem-core:supplyRawJarForneoFormJoined1.21.1-20240808.144430 UP-TO-DATE
+> Task :rpgem-core:selectRawArtifactNg_dummy_ng.net.neoforged_neoforge_21.1.217 UP-TO-DATE
+> Task :rpgem-core:compileJava UP-TO-DATE
+> Task :neoFormTransformSource UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormPatch UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormPatchUserDev UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormTransformSource UP-TO-DATE
+> Task :neoFormRecompile UP-TO-DATE
+> Task :supplyRawJarForneoFormJoined1.21.1-20240808.144430 UP-TO-DATE
+> Task :selectRawArtifactNg_dummy_ng.net.neoforged_neoforge_21.1.217 UP-TO-DATE
+> Task :rpgem-forging-plus:neoFormRecompile UP-TO-DATE
+> Task :rpgem-forging-plus:supplyRawJarForneoFormJoined1.21.1-20240808.144430 UP-TO-DATE
+> Task :rpgem-forging-plus:selectRawArtifactNg_dummy_ng.net.neoforged_neoforge_21.1.217 UP-TO-DATE
+> Task :processResources
+> Task :neoFormJoined1.21.1-20240808.144430DownloadAssets UP-TO-DATE
+> Task :neoFormJoined1.21.1-20240808.144430ExtractNatives UP-TO-DATE
+> Task :writeMinecraftClasspathClient UP-TO-DATE
+> Task :rpgem-core:processResources
+> Task :rpgem-core:classes
+> Task :rpgem-forging-plus:processResources
+> Task :rpgem-core:jar
+> Task :rpgem-forging-plus:compileJava UP-TO-DATE
+> Task :rpgem-forging-plus:classes
+> Task :rpgem-forging-plus:jar
+> Task :compileJava UP-TO-DATE
+> Task :classes
+
+> Task :runClient
+[19:00:17.361] [main/INFO] [Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientdev, --version, 21.1.217, --assetIndex, asset-index, --assetsDir, C:\Users\telep\.gradle\caches\minecraft\assets, --gameDir, ., --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoForgeVersion, 21.1.217, --fml.neoFormVersion, 20240808.144430] 
+[19:00:17.365] [main/INFO] [Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.10+7-LTS 
+[19:00:17.367] [main/INFO] [Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.10 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0 
+[19:00:17.575] [main/INFO] [loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow 
+[19:00:17.792] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6 
+[19:00:18.112] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6 
+[19:00:18.353] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/telep/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23142!/ Service=ModLauncher Env=CLIENT 
+[19:00:18.397] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: Intel(R) UHD Graphics 730 GL version 4.6.0 - Build 32.0.101.7026, Intel 
+[19:00:18.559] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217.jar" [locator: neoforge devenv provider ([D:\MinecraftModding\rpgem-alchemy-plus\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.1.217\neoforge-21.1.217.jar])] 
+[19:00:18.642] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217.jar" [locator: neoforge devenv provider ([D:\MinecraftModding\rpgem-alchemy-plus\.gradle\repositories\ng_dummy_ng\net\neoforged\neoforge\21.1.217\neoforge-21.1.217.jar])] 
+[19:00:18.655] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "main" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.669] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.217.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.673] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rpgem_forging-1.0.0.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.680] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rpgem_core-1.0.0.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.685] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.7.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.700] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.21.0.247.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.708] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.4.0+1.21.1.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:18.774] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [locator: userdev mods and services, reader: mod manifest] 
+[19:00:19.028] [main/WARN] [selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:mixinextras.neoforge. Using Mod File: C:\Users\telep\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.5.0\d734b83ce6542bb70ea31755c1595b88992dbe65\mixinextras-neoforge-0.5.0.jar 
+[19:00:19.028] [main/INFO] [loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection 
+[19:00:19.029] [main/INFO] [loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.217.jar" [parent: neoforge-21.1.217.jar, locator: jarinjar, reader: mod manifest] 
+[19:00:19.030] [main/INFO] [loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Curios API 9.4.0+1.21.1 (curios)
+		GeckoLib 4 4.7 (geckolib)
+		Just Enough Items 19.21.0.247 (jei)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.217 (neoforge)
+		RPGEM Alchemy+ 1.0.0 (rpgem_alchemy)
+		RPGEM Core 1.0.0 (rpgem_core)
+		RPGEM Forging+ 1.0.0 (rpgem_forging) 
+[19:00:19.732] [main/INFO] [mixin/]: Compatibility level set to JAVA_21 
+[19:00:19.757] [main/INFO] [LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientdev' with arguments [--version, 21.1.217, --gameDir, ., --assetsDir, C:\Users\telep\.gradle\caches\minecraft\assets, --assetIndex, asset-index] 
+[19:00:19.869] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message 
+[19:00:19.870] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message 
+[19:00:19.872] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message 
+WARN StatusConsoleListener Advanced terminal features are not available in this environment
+[19:00:21] [main/DEBUG] [io.ne.ut.in.lo.InternalLoggerFactory/]: Using SLF4J as the default logging framework
+[19:00:21] [main/DEBUG] [io.ne.ut.ResourceLeakDetector/]: -Dio.netty.leakDetection.level: simple
+[19:00:21] [main/DEBUG] [io.ne.ut.ResourceLeakDetector/]: -Dio.netty.leakDetection.targetRecords: 4
+[19:00:22] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[19:00:22] [main/DEBUG] [mixin/]: Registering new injector for @SugarWrapper with com.llamalad7.mixinextras.sugar.impl.SugarWrapperInjectionInfo
+[19:00:22] [main/DEBUG] [mixin/]: Registering new injector for @FactoryRedirectWrapper with com.llamalad7.mixinextras.wrapper.factory.FactoryRedirectWrapperInjectionInfo
+[19:00:22] [main/DEBUG] [mixin/]: Registering new injector for @ExpressionInjectorWrapper with com.llamalad7.mixinextras.expression.impl.wrapper.ExpressionInjectorWrapperInjectionInfo
+[19:00:22] [main/DEBUG] [mixin/]: Mixing MixinV1460 from curios.neoforge.mixins.json into net.minecraft.util.datafix.schemas.V1460
+[19:00:22] [main/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinV1460 from mod curios->@Inject::captureSchema(Lcom/mojang/datafixers/schemas/Schema;Ljava/util/Map;Ljava/util/Map;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[19:00:22] [main/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinV1460 from mod curios->@Inject::captureSchema(Lcom/mojang/datafixers/schemas/Schema;Ljava/util/Map;Ljava/util/Map;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[19:00:22] [main/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinV1460 from mod curios->@Inject::captureSchema(Lcom/mojang/datafixers/schemas/Schema;Ljava/util/Map;Ljava/util/Map;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[19:00:22] [main/DEBUG] [mixin/]: Mixing MixinLivingEntity from curios.neoforge.mixins.json into net.minecraft.world.entity.LivingEntity
+[19:00:22] [main/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinLivingEntity from mod curios->@Inject::curio$canFreeze(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:22] [main/DEBUG] [mixin/]: Mixing AccessorEntity from curios.mixins.json into net.minecraft.world.entity.Entity
+[19:00:23] [main/DEBUG] [os.ut.FileUtil/]: No oshi.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@7918c7f8
+[19:00:23] [Datafixer Bootstrap/INFO] [mojang/DataFixerBuilder]: 229 Datafixer optimizations took 509 milliseconds
+[19:00:24] [main/DEBUG] [os.ut.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@7918c7f8
+[19:00:24] [pool-11-thread-1/DEBUG] [mixin/]: Mixing MappedRegistryAccessor from neoforge.mixins.json into net.minecraft.core.MappedRegistry
+[19:00:25] [pool-11-thread-1/DEBUG] [mixin/]: Mixing MixinPowderSnowBlock from curios.neoforge.mixins.json into net.minecraft.world.level.block.PowderSnowBlock
+[19:00:25] [pool-11-thread-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinPowderSnowBlock from mod curios->@Inject::curios$canEntityWalkOnPowderSnow(Lnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:25] [pool-11-thread-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinPowderSnowBlock from mod curios->@Inject::curios$canEntityWalkOnPowderSnow(Lnet/minecraft/world/entity/Entity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:25] [pool-11-thread-1/DEBUG] [mixin/]: Mixing BlockEntityTypeAccessor from neoforge.mixins.json into net.minecraft.world.level.block.entity.BlockEntityType
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: -Dio.netty.noUnsafe: false
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: Java version: 21
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: sun.misc.Unsafe.theUnsafe: available
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: sun.misc.Unsafe.copyMemory: available
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: sun.misc.Unsafe.storeFence: available
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: java.nio.Buffer.address: available
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: java.nio.Bits.unaligned: available, true
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent0/]: java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: sun.misc.Unsafe: available
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: maxDirectMemory: 2067791872 bytes (maybe)
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: -Dio.netty.tmpdir: C:\Users\telep\AppData\Local\Temp (java.io.tmpdir)
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: Platform: Windows
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: -Dio.netty.maxDirectMemory: -1 bytes
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.CleanerJava9/]: java.nio.ByteBuffer.cleaner(): available
+[19:00:27] [pool-11-thread-1/DEBUG] [io.ne.ut.in.PlatformDependent/]: -Dio.netty.noPreferDirect: false
+[19:00:28] [pool-11-thread-1/DEBUG] [mixin/]: Mixing MixinNbtPredicate from curios.neoforge.mixins.json into net.minecraft.advancements.critereon.NbtPredicate
+[19:00:29] [pool-11-thread-1/DEBUG] [mixin/]: Mixing MixinInventory from curios.neoforge.mixins.json into net.minecraft.world.entity.player.Inventory
+[19:00:29] [pool-11-thread-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinInventory from mod curios->@Inject::curios$containsStack(Lnet/minecraft/world/item/ItemStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:29] [pool-11-thread-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinInventory from mod curios->@Inject::curios$containsTag(Lnet/minecraft/tags/TagKey;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:29] [pool-11-thread-1/DEBUG] [mixin/]: Mixing MixinEnchantedCountIncreaseFunction from curios.neoforge.mixins.json into net.minecraft.world.level.storage.loot.functions.EnchantedCountIncreaseFunction
+[19:00:29] [pool-11-thread-1/DEBUG] [mixin/]: Mixing MixinApplyBonusCount from curios.neoforge.mixins.json into net.minecraft.world.level.storage.loot.functions.ApplyBonusCount
+[19:00:30] [pool-11-thread-1/DEBUG] [ne.ne.ne.re.GameData/REGISTRIES]: Creating vanilla freeze snapshot
+[19:00:30] [pool-11-thread-1/DEBUG] [ne.ne.ne.re.GameData/REGISTRIES]: Vanilla freeze snapshot created
+[19:00:31] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:00:31] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:00:31] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:00:31] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:00:31] [main/WARN] [minecraft/Commands]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:00:31] [Render thread/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/D:/MinecraftModding/rpgem-alchemy-plus/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.1.217/neoforge-21.1.217.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[19:00:31] [Render thread/WARN] [minecraft/VanillaPackResourcesBuilder]: Assets URL 'union:/D:/MinecraftModding/rpgem-alchemy-plus/.gradle/repositories/ng_dummy_ng/net/neoforged/neoforge/21.1.217/neoforge-21.1.217.jar%23195!/data/.mcassetsroot' uses unexpected schema
+[19:00:31] [Render thread/INFO] [mojang/YggdrasilAuthenticationService]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:00:31] [Render thread/INFO] [minecraft/Minecraft]: Setting user: Dev
+[19:00:31] [Render thread/INFO] [minecraft/Minecraft]: Backend library: LWJGL version 3.3.3+5
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ModWorkManager/LOADING]: Using 8 threads for parallel mod-loading
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [net.kankrittapon.rpgem.core.RPGEMCore]
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [top.theillusivec4.curios.Curios]
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [net.kankrittapon.rpgem.forging.RPGEMForging]
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [software.bernie.geckolib.GeckoLib]
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [net.neoforged.neoforge.common.NeoForgeMod, net.neoforged.neoforge.client.ClientNeoForgeMod]
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [net.kankrittapon.rpgem.alchemy.RPGEMAlchemy]
+[19:00:32] [Render thread/DEBUG] [ne.ne.fm.ja.FMLModContainer/LOADING]: Creating FMLModContainer instance for [mezz.jei.neoforge.JustEnoughItems]
+[19:00:32] [modloading-worker-0/INFO] [ne.ka.rp.co.RPGEMCore/]: RPGEM Core Initializing...
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.ne.in.ve.ne.NeoForgeVersion/CORE]: Found NeoForge version 21.1.217
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.ne.in.ve.ne.NeoForgeVersion/CORE]: Found FML version 4.0.42
+[19:00:32] [modloading-worker-0/INFO] [ne.ne.ne.co.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.217, for MC 1.21.1
+[19:00:32] [modloading-worker-0/DEBUG] [GeckoLib/]: Loaded software.bernie.geckolib.platform.GeckoLibNeoForge@189976c8 for service interface software.bernie.geckolib.service.GeckoLibPlatform
+[19:00:32] [modloading-worker-0/DEBUG] [GeckoLib/]: Loaded software.bernie.geckolib.network.GeckoLibNetworkingNeoForge@5595277b for service interface software.bernie.geckolib.service.GeckoLibNetworking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file jei-server.toml for jei tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file rpgem_core-common.toml for rpgem_core tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file curios-client.toml for curios tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file rpgem_core-client.toml for rpgem_core tracking
+[19:00:32] [modloading-worker-0/INFO] [ne.ka.rp.co.RPGEMCore/]: RPGEM Core Initialized
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for rpgem_core
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for geckolib
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file neoforge-client.toml for neoforge tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file curios-common.toml for curios tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file curios-server.toml for curios tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for curios
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file neoforge-server.toml for neoforge tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class top.theillusivec4.curios.Curios$ClientProxy for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.kankrittapon.rpgem.core.event.ModEventBusEvents for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file neoforge-common.toml for neoforge tracking
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/kankrittapon/rpgem/core/event/ModEventBusEvents; to the mod event bus of mod rpgem_core
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Ltop/theillusivec4/curios/Curios$ClientProxy; to the mod event bus of mod curios
+[19:00:32] [modloading-worker-0/INFO] [ne.ka.rp.fo.RPGEMForging/]: RPGEM Forging+ Initializing...
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Config file rpgem_forging-common.toml for rpgem_forging tracking
+[19:00:32] [modloading-worker-0/INFO] [ne.ka.rp.fo.RPGEMForging/]: RPGEM Forging+ Initialized successfully.
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for rpgem_forging
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.kankrittapon.rpgem.forging.RPGEMForgingClient for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/kankrittapon/rpgem/forging/RPGEMForgingClient; to the mod event bus of mod rpgem_forging
+[19:00:32] [modloading-worker-0/INFO] [ne.ka.rp.al.RPGEMAlchemy/]: Initializing RPGEM Alchemy+
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.co.pl.Services/]: Loaded mezz.jei.neoforge.platform.PlatformHelper@7c866f3f for service interface mezz.jei.common.platform.IPlatformHelper
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for rpgem_alchemy
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.kankrittapon.rpgem.alchemy.RPGEMAlchemyClient for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/kankrittapon/rpgem/alchemy/RPGEMAlchemyClient; to the mod event bus of mod rpgem_alchemy
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for neoforge
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.server.command.ConfigCommand for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/server/command/ConfigCommand; to the game event bus
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.network.NetworkInitialization for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/network/NetworkInitialization; to the mod event bus of mod neoforge
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.network.filters.GenericPacketSplitter for @SubscribeEvent-annotated methods
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.co.co.fi.ConfigSchema/]: Localization has not loaded yet, waiting to save the config file until JEI starts.
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.co.co.fi.ConfigSchema/]: Localization has not loaded yet, waiting to save the config file until JEI starts.
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.co.co.fi.ConfigSchema/]: Localization has not loaded yet, waiting to save the config file until JEI starts.
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.co.co.fi.ConfigSchema/]: Localization has not loaded yet, waiting to save the config file until JEI starts.
+[19:00:32] [modloading-worker-0/INFO] [me.je.li.lo.PluginCaller/]: Sending ConfigManager...
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending ConfigManager: jei:minecraft...
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending ConfigManager: curios:curios...
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending ConfigManager: jei:neoforge_gui...
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending ConfigManager: jei:debug...
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending ConfigManager: jei:gui...
+[19:00:32] [modloading-worker-0/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending ConfigManager: jei:internal...
+[19:00:32] [modloading-worker-0/INFO] [me.je.li.lo.PluginCaller/]: Sending ConfigManager took 2.081 ms
+[19:00:32] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Attempting to inject @EventBusSubscriber classes into the eventbus for jei
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.AbstractByteBuf/]: -Dio.netty.buffer.checkAccessible: true
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.AbstractByteBuf/]: -Dio.netty.buffer.checkBounds: true
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.ut.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@56a08a79
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.ut.in.InternalThreadLocalMap/]: -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.ut.in.InternalThreadLocalMap/]: -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.numHeapArenas: 16
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.numDirectArenas: 16
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.pageSize: 8192
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.maxOrder: 9
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.chunkSize: 4194304
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.smallCacheSize: 256
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.normalCacheSize: 64
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.cacheTrimInterval: 8192
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.useCacheForAllThreads: false
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.PooledByteBufAllocator/]: -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.ByteBufUtil/]: -Dio.netty.allocator.type: pooled
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.ByteBufUtil/]: -Dio.netty.threadLocalDirectBufferSize: 0
+[19:00:33] [modloading-worker-0/DEBUG] [io.ne.bu.ByteBufUtil/]: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/network/filters/GenericPacketSplitter; to the mod event bus of mod neoforge
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.network.ConfigurationInitialization for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/network/ConfigurationInitialization; to the mod event bus of mod neoforge
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.common.MonsterRoomHooks for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/common/MonsterRoomHooks; to the game event bus
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.common.DeferredSpawnEggItem$CommonHandler for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/common/DeferredSpawnEggItem$CommonHandler; to the mod event bus of mod neoforge
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.common.DeferredSpawnEggItem$ColorRegisterHandler for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/common/DeferredSpawnEggItem$ColorRegisterHandler; to the mod event bus of mod neoforge
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.client.ParticleBoundsDebugRenderer for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/client/ParticleBoundsDebugRenderer; to the game event bus
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.client.model.data.ModelDataManager for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/client/model/data/ModelDataManager; to the game event bus
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.client.ClientHooks$ClientEvents for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/client/ClientHooks$ClientEvents; to the mod event bus of mod neoforge
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.client.BlockEntityRenderBoundsDebugRenderer for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/client/BlockEntityRenderBoundsDebugRenderer; to the game event bus
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.attachment.AttachmentSync for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/attachment/AttachmentSync; to the game event bus
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/LOADING]: Scanning class net.neoforged.neoforge.attachment.AttachmentInternals for @SubscribeEvent-annotated methods
+[19:00:33] [modloading-worker-0/DEBUG] [ne.ne.fm.ja.AutomaticEventSubscriber/]: Subscribing @EventBusSubscriber class Lnet/neoforged/neoforge/attachment/AttachmentInternals; to the game event bus
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.ne.re.GameData/REGISTRIES]: Unfreezing registries
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.ne.re.GameData/REGISTRIES]: Freezing registries
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.ne.re.GameData/REGISTRIES]: All registries frozen
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loading configs type CLIENT
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\rpgem_core-client.toml
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\rpgem_core-client.toml for changes
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\curios-client.toml
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\curios-client.toml for changes
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.ne.co.NeoForgeConfig/FORGEMOD]: Loaded NeoForge config file neoforge-client.toml
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\neoforge-client.toml
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\neoforge-client.toml for changes
+[19:00:33] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loading configs type COMMON
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\rpgem_core-common.toml
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\rpgem_core-common.toml for changes
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.ne.co.ModConfigSpec/CORE]: List on key slots is deemed to need correction, as it is null, not a list, or the wrong size.
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\curios-common.toml
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\curios-common.toml for changes
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.ne.co.NeoForgeConfig/FORGEMOD]: Loaded NeoForge config file neoforge-common.toml
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\neoforge-common.toml
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\neoforge-common.toml for changes
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\rpgem_forging-common.toml
+[19:00:34] [modloading-sync-worker/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\rpgem_forging-common.toml for changes
+[19:00:34] [Render thread/DEBUG] [mixin/]: Mixing client.TextureManagerMixin from geckolib.mixins.json into net.minecraft.client.renderer.texture.TextureManager
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.TextureManagerMixin from mod geckolib: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19:00:34] [Render thread/DEBUG] [mixin/]: Mixing client.LevelRendererMixin from geckolib.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.LevelRendererMixin from mod geckolib: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19:00:34] [Render thread/DEBUG] [mixin/]: Renaming synthetic method lambda$geckolib$captureRenderedEntities$0(I)D to md213322$geckolib$lambda$geckolib$captureRenderedEntities$0$0 in geckolib.mixins.json:client.LevelRendererMixin from mod geckolib
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.LevelRendererMixin from mod geckolib->@Inject::geckolib$captureRenderedEntities(Lnet/minecraft/client/DeltaTracker;ZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lorg/joml/Matrix4f;Lorg/joml/Matrix4f;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.LevelRendererMixin from mod geckolib->@Inject::geckolib$captureRenderedEntities(Lnet/minecraft/client/DeltaTracker;ZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lorg/joml/Matrix4f;Lorg/joml/Matrix4f;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.LevelRendererMixin from mod geckolib->@Inject::geckolib$captureRenderedEntities(Lnet/minecraft/client/DeltaTracker;ZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lorg/joml/Matrix4f;Lorg/joml/Matrix4f;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[19:00:34] [Render thread/DEBUG] [mixin/]: Mixing client.BlockEntityWithoutLevelRendererMixin from geckolib.mixins.json into net.minecraft.client.renderer.BlockEntityWithoutLevelRenderer
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.BlockEntityWithoutLevelRendererMixin from mod geckolib: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19:00:34] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.BlockEntityWithoutLevelRendererMixin from mod geckolib->@Inject::geckolib$renderGeckolibItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:35] [Render thread/INFO] [ne.ne.ne.ga.GameTestHooks/]: Enabled Gametest Namespaces: [rpgem_alchemy]
+[19:00:36] [Render thread/INFO] [minecraft/ReloadableResourceManager]: Reloading ResourceManager: vanilla, mod_resources, mod/rpgem_core, mod/curios, mod/rpgem_forging, mod/geckolib, mod/neoforge, mod/rpgem_alchemy, mod/jei
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: Mixing MixinCuriosApi from curios.neoforge.mixins.json into top.theillusivec4.curios.api.CuriosApi
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$registerCurio(Lnet/minecraft/world/item/Item;Ltop/theillusivec4/curios/api/type/capability/ICurioItem;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getSlots(ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getEntitySlots(Lnet/minecraft/world/entity/EntityType;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getItemStackSlots(Lnet/minecraft/world/item/ItemStack;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getItemStackSlots(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getCurio(Lnet/minecraft/world/item/ItemStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getCuriosInventory(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$isStackValid(Ltop/theillusivec4/curios/api/SlotContext;Lnet/minecraft/world/item/ItemStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getAttributeModifiers(Ltop/theillusivec4/curios/api/SlotContext;Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/world/item/ItemStack;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$addSlotModifier(Lcom/google/common/collect/Multimap;Ljava/lang/String;Lnet/minecraft/resources/ResourceLocation;DLnet/minecraft/world/entity/ai/attributes/AttributeModifier$Operation;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$addSlotModifier(Lnet/minecraft/world/item/ItemStack;Ljava/lang/String;Lnet/minecraft/resources/ResourceLocation;DLnet/minecraft/world/entity/ai/attributes/AttributeModifier$Operation;Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$addModifier(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/core/Holder;Lnet/minecraft/resources/ResourceLocation;DLnet/minecraft/world/entity/ai/attributes/AttributeModifier$Operation;Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$registerCurioPredicate(Lnet/minecraft/resources/ResourceLocation;Ljava/util/function/Predicate;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getCurioPredicate(Lnet/minecraft/resources/ResourceLocation;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getCurioPredicates(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$testCurioPredicates(Ljava/util/Set;Ltop/theillusivec4/curios/api/SlotResult;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$getUuid(Ltop/theillusivec4/curios/api/SlotContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[19:00:36] [Worker-Main-1/DEBUG] [mixin/]: curios.neoforge.mixins.json:MixinCuriosApi from mod curios->@Inject::curios$broadcastCurioBreakEvent(Ltop/theillusivec4/curios/api/SlotContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[19:00:36] [Render thread/DEBUG] [ne.ne.fm.DeferredWorkQueue/LOADING]: Dispatching synchronous work for work queue Common setup: 2 jobs
+[19:00:36] [Render thread/DEBUG] [ne.ne.fm.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 16.59 ms
+[19:00:37] [Worker-Main-4/INFO] [minecraft/UnihexProvider]: Found unifont_all_no_pua-15.1.05.hex, loading
+[19:00:38] [Worker-Main-2/INFO] [minecraft/UnihexProvider]: Found unifont_jp_patch-15.1.05.hex, loading
+[19:00:39] [Worker-Main-1/WARN] [minecraft/BlockStateModelLoader]: Exception loading blockstate definition: 'rpgem_alchemy:blockstates/tome_of_forgotten_table.json' missing model for variant: 'rpgem_alchemy:tome_of_forgotten_table#'
+[19:00:39] [Worker-Main-1/WARN] [minecraft/ModelBakery]: Unable to load model: 'rpgem_alchemy:item/bone_of_maze' referenced from: rpgem_alchemy:item/bone_of_maze: java.io.FileNotFoundException: rpgem_alchemy:models/item/bone_of_maze.json
+[19:00:39] [Worker-Main-1/WARN] [minecraft/ModelBakery]: Unable to load model: 'rpgem_alchemy:item/cosmic_emerald' referenced from: rpgem_alchemy:item/cosmic_emerald: java.io.FileNotFoundException: rpgem_alchemy:models/item/cosmic_emerald.json
+[19:00:39] [Worker-Main-1/WARN] [minecraft/ModelBakery]: Unable to load model: 'rpgem_alchemy:item/zombie_heart' referenced from: rpgem_alchemy:item/zombie_heart: java.io.FileNotFoundException: rpgem_alchemy:models/item/zombie_heart.json
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:upgrade_stone_tier_3#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/upgrade_stone_tier_3
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:forged_stone_fortitude#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/forged_stone_fortitude
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_alchemy:ethernal_bottle#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_alchemy:item/ethernal_bottle
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:memory_fragment#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/memory_fragment
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:forged_stone_ultimate_destruction#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/forged_stone_ultimate_destruction
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:artisans_memory#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/artisans_memory
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:forged_stone_destruction#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/forged_stone_destruction
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:ancient_forge#:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:block/ancient_forge
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:forged_stone_ultimate_fortitude#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/forged_stone_ultimate_fortitude
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:protection_stone#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/protection_stone
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:forged_stone_agility#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/forged_stone_agility
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_alchemy:alchemy_table#:
+    minecraft:textures/atlas/blocks.png:rpgem_alchemy:block/alchemy_table
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_alchemy:infinite_potion_tier_1#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_alchemy:item/infinite_potion_tier_1
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_alchemy:infinite_potion_tier_2#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_alchemy:item/infinite_potion_tier_2
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_alchemy:infinite_potion_tier_3#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_alchemy:item/infinite_potion_tier_3
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:upgrade_stone_tier_1#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/upgrade_stone_tier_1
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:forged_stone_ultimate_agility#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/forged_stone_ultimate_agility
+[19:00:40] [Worker-Main-1/WARN] [minecraft/ModelManager]: Missing textures in model rpgem_forging:upgrade_stone_tier_2#inventory:
+    minecraft:textures/atlas/blocks.png:rpgem_forging:item/upgrade_stone_tier_2
+[19:00:40] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: minecraft:item.goat_horn.play
+[19:00:40] [Render thread/WARN] [minecraft/SoundEngine]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[19:00:41] [Render thread/INFO] [mojang/Library]: OpenAL initialized on device OpenAL Soft on Headphones (SUNDAY WOOD)
+[19:00:41] [Render thread/INFO] [minecraft/SoundEngine]: Sound engine started
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:00:41] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:00:42] [Render thread/DEBUG] [mixin/]: Mixing client.HumanoidArmorLayerMixin from geckolib.mixins.json into net.minecraft.client.renderer.entity.layers.HumanoidArmorLayer
+[19:00:42] [Render thread/DEBUG] [mixin/]: geckolib.mixins.json:client.HumanoidArmorLayerMixin from mod geckolib: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[19:00:42] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:00:42] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:00:42] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:00:42] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19:00:42] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19:00:42] [Render thread/WARN] [minecraft/ShaderInstance]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[19:00:43] [Render thread/INFO] [ne.ne.ne.cl.en.an.js.AnimationLoader/]: Loaded 0 entity animations
+[19:00:43] [Render thread/INFO] [minecraft/TextureAtlas]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[19:00:53] [Render thread/INFO] [minecraft/RecipeManager]: Loaded 1290 recipes
+[19:00:53] [Render thread/INFO] [minecraft/AdvancementTree]: Loaded 1399 advancements
+[19:00:53] [Render thread/INFO] [Curios API/]: Loaded 10 curio slots
+[19:00:53] [Render thread/INFO] [Curios API/]: Loaded 1 curio entities
+[19:00:54] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.event.TagsUpdatedEvent too early, ignoring
+[19:01:08] [Render thread/INFO] [minecraft/RecipeManager]: Loaded 1290 recipes
+[19:01:08] [Render thread/INFO] [minecraft/AdvancementTree]: Loaded 1399 advancements
+[19:01:08] [Render thread/INFO] [Curios API/]: Loaded 10 curio slots
+[19:01:08] [Render thread/INFO] [Curios API/]: Loaded 1 curio entities
+[19:01:09] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.event.TagsUpdatedEvent too early, ignoring
+[19:01:14] [Render thread/DEBUG] [ne.ne.ne.co.CommonHooks/WP]: Gathered mod list to write to world save New World
+[19:01:14] [Server thread/INFO] [minecraft/IntegratedServer]: Starting integrated minecraft server version 1.21.1
+[19:01:14] [Server thread/INFO] [minecraft/MinecraftServer]: Generating keypair
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loading configs type SERVER
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei-server.toml
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei-server.toml for changes
+[19:01:14] [Server thread/DEBUG] [ne.ne.ne.co.NeoForgeConfig/FORGEMOD]: Loaded NeoForge config file neoforge-server.toml
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\neoforge-server.toml
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\neoforge-server.toml for changes
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Loaded TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\curios-server.toml
+[19:01:14] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Watching TOML config file D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\curios-server.toml for changes
+[19:01:15] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[19:01:15] [progressListener/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 2%
+[19:01:15] [Server thread/INFO] [ne.ne.ne.se.pe.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[19:01:15] [progressListener/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 189 ms
+[19:01:15] [Server thread/INFO] [minecraft/IntegratedServer]: Changing view distance to 12, from 10
+[19:01:15] [Server thread/INFO] [minecraft/IntegratedServer]: Changing simulation distance to 12, from 0
+[19:01:15] [Render thread/DEBUG] [io.ne.ch.MultithreadEventLoopGroup/]: -Dio.netty.eventLoopThreads: 16
+[19:01:15] [Render thread/DEBUG] [io.ne.ut.co.GlobalEventExecutor/]: -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+[19:01:15] [Render thread/DEBUG] [io.ne.ch.ni.NioEventLoop/]: -Dio.netty.noKeySetOptimization: false
+[19:01:15] [Render thread/DEBUG] [io.ne.ch.ni.NioEventLoop/]: -Dio.netty.selectorAutoRebuildThreshold: 512
+[19:01:15] [Render thread/DEBUG] [io.ne.ut.in.PlatformDependent/]: org.jctools-core.MpscChunkedArrayQueue: available
+[19:01:16] [Render thread/DEBUG] [io.ne.ch.DefaultChannelId/]: -Dio.netty.processId: 9212 (auto-detected)
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.NetUtil/]: -Djava.net.preferIPv4Stack: false
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.NetUtil/]: -Djava.net.preferIPv6Addresses: system
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.NetUtilInitializations/]: Loopback interface: loopback_0 (Software Loopback Interface 1, 0:0:0:0:0:0:0:1)
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.NetUtil/]: Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+[19:01:16] [Render thread/DEBUG] [io.ne.ch.DefaultChannelId/]: -Dio.netty.machineId: 6c:3c:8c:ff:fe:31:e2:a2 (auto-detected)
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.Recycler/]: -Dio.netty.recycler.ratio: 8
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.Recycler/]: -Dio.netty.recycler.blocking: false
+[19:01:16] [Render thread/DEBUG] [io.ne.ut.Recycler/]: -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[19:01:16] [Netty Server IO #1/DEBUG] [ne.ne.ne.ne.fi.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1932d0a9 into net.minecraft.network.Connection@734be95
+[19:01:16] [Netty Local Client IO #0/DEBUG] [ne.ne.ne.ne.fi.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@1e7cad86 into net.minecraft.network.Connection@4ffb77a0
+[19:01:16] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.event.TagsUpdatedEvent
+[19:01:16] [Netty Server IO #1/DEBUG] [ne.ne.ne.ne.fi.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2fcf2f03 into net.minecraft.network.Connection@734be95
+[19:01:16] [Server thread/INFO] [minecraft/PlayerList]: Dev[local:E:9e47db67] logged in with entity id 1 at (-5.5, -60.0, -0.5)
+[19:01:16] [Server thread/INFO] [minecraft/MinecraftServer]: Dev joined the game
+[19:01:16] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.client.event.RecipesUpdatedEvent
+[19:01:16] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver transitioning state from LISTENING to JEI_STARTED
+[19:01:16] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Starting JEI...
+[19:01:16] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering item subtypes...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering item subtypes: jei:minecraft...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering item subtypes: curios:curios...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering item subtypes: jei:neoforge_gui...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering item subtypes: jei:debug...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering item subtypes: jei:gui...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering item subtypes: jei:internal...
+[19:01:16] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering item subtypes took 10.33 ms
+[19:01:16] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering fluid subtypes...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering fluid subtypes: jei:minecraft...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering fluid subtypes: curios:curios...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering fluid subtypes: jei:neoforge_gui...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering fluid subtypes: jei:debug...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering fluid subtypes: jei:gui...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering fluid subtypes: jei:internal...
+[19:01:16] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering fluid subtypes took 2.428 ms
+[19:01:16] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering ingredients...
+[19:01:16] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft...
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  402/ 402 new items from 'Building Blocks' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  198/ 198 new items from 'Colored Blocks' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  201/ 226 new items from 'Natural Blocks' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  138/ 225 new items from 'Functional Blocks' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added   29/  68 new items from 'Redstone Blocks' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Skipping creative tab: 'Saved Hotbars' because it is type: HOTBAR
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Skipping creative tab: 'Search Items' because it is type: SEARCH
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  101/ 113 new items from 'Tools & Utilities' creative tab's displayItems
+[19:01:16] [Render thread/ERROR] [ne.ne.fm.ja.FMLModContainer/]: Exception caught during firing event: The stack count must be 1 for 0 minecraft:air
+	Index: 0
+	Listeners:
+		0: net.kankrittapon.rpgem.forging.RPGEMForging$$Lambda/0x000001e65add6f20@6850a239
+java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.assertStackCount(BuildCreativeModeTabContentsEvent.java:202)
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.accept(BuildCreativeModeTabContentsEvent.java:91)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab$Output.accept(CreativeModeTab.java:441)
+	at TRANSFORMER/rpgem_forging@1.0.0/net.kankrittapon.rpgem.forging.RPGEMForging.addCreative(RPGEMForging.java:49)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:342)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:177)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358)
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:80)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:179)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginLoader.lambda$registerIngredients$2(PluginLoader.java:82)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:25)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginLoader.registerIngredients(PluginLoader.java:82)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.neoforge.startup.StartEventObserver.transitionState(StartEventObserver.java:170)
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.neoforge.startup.StartEventObserver.onEvent(StartEventObserver.java:120)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.client.ClientHooks.onRecipesUpdated(ClientHooks.java:664)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.multiplayer.ClientPacketListener.handleUpdateRecipes(ClientPacketListener.java:1590)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundUpdateRecipesPacket.handle(ClientboundUpdateRecipesPacket.java:31)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundUpdateRecipesPacket.handle(ClientboundUpdateRecipesPacket.java:12)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:36)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1161)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210)
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69)
+
+[19:01:16] [Render thread/ERROR] [ne.ne.fm.ModContainer/LOADING]: Caught exception during event net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent@1230a38d dispatch for modid rpgem_forging
+java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.assertStackCount(BuildCreativeModeTabContentsEvent.java:202) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.accept(BuildCreativeModeTabContentsEvent.java:91) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab$Output.accept(CreativeModeTab.java:441) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/rpgem_forging@1.0.0/net.kankrittapon.rpgem.forging.RPGEMForging.addCreative(RPGEMForging.java:49) ~[rpgem_forging-1.0.0.jar%23199!/:?] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:342) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:177) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:80) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:179) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginLoader.lambda$registerIngredients$2(PluginLoader.java:82) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:25) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginLoader.registerIngredients(PluginLoader.java:82) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.neoforge.startup.StartEventObserver.transitionState(StartEventObserver.java:170) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.neoforge.startup.StartEventObserver.onEvent(StartEventObserver.java:120) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23154!/:?] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.client.ClientHooks.onRecipesUpdated(ClientHooks.java:664) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.multiplayer.ClientPacketListener.handleUpdateRecipes(ClientPacketListener.java:1590) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundUpdateRecipesPacket.handle(ClientboundUpdateRecipesPacket.java:31) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundUpdateRecipesPacket.handle(ClientboundUpdateRecipesPacket.java:12) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:36) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1161) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?] {}
+[19:01:16] [Render thread/ERROR] [me.je.li.pl.va.in.ItemStackListFactory/]: Item Group crashed while building contents.Items from this group will be missing from the JEI ingredient list: Combat
+net.neoforged.fml.ModLoadingException: Loading errors encountered:
+	- RPGEM Forging+ (rpgem_forging) encountered an error while dispatching the net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent event
+	  java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:181) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory.create(ItemStackListFactory.java:80) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.plugins.vanilla.VanillaPlugin.registerIngredients(VanillaPlugin.java:179) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginLoader.lambda$registerIngredients$2(PluginLoader.java:82) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:25) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.load.PluginLoader.registerIngredients(PluginLoader.java:82) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:113) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.neoforge.startup.StartEventObserver.transitionState(StartEventObserver.java:170) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at TRANSFORMER/jei@19.21.0.247/mezz.jei.neoforge.startup.StartEventObserver.onEvent(StartEventObserver.java:120) ~[jei-1.21.1-neoforge-19.21.0.247.jar%23202!/:19.21.0.247] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23154!/:?] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.client.ClientHooks.onRecipesUpdated(ClientHooks.java:664) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.multiplayer.ClientPacketListener.handleUpdateRecipes(ClientPacketListener.java:1590) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundUpdateRecipesPacket.handle(ClientboundUpdateRecipesPacket.java:31) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ClientboundUpdateRecipesPacket.handle(ClientboundUpdateRecipesPacket.java:12) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:36) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1161) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?] {}
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  190/ 193 new items from 'Food & Drinks' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added  175/ 186 new items from 'Ingredients' creative tab's displayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added   83/ 269 new items from 'Ingredients' creative tab's searchTabDisplayItems
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Added   80/  80 new items from 'Spawn Eggs' creative tab's displayItems
+[19:01:16] [Render thread/WARN] [me.je.li.pl.va.in.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Operator Utilities
+[19:01:16] [Render thread/DEBUG] [me.je.li.pl.va.in.ItemStackListFactory/]: Skipping creative tab: 'Survival Inventory' because it is type: INVENTORY
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 168.3 milliseconds
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering ingredients: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering ingredients took 169.8 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering extra ingredients...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering extra ingredients: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering extra ingredients: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering extra ingredients: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering extra ingredients: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering extra ingredients: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering extra ingredients: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering extra ingredients took 755.6 ?s
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering search ingredient aliases...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering search ingredient aliases: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering search ingredient aliases: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering search ingredient aliases: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering search ingredient aliases: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering search ingredient aliases: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering search ingredient aliases: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering search ingredient aliases took 1.373 ms
+[19:01:17] [Render thread/DEBUG] [me.je.li.co.EditModeConfig/]: Saved blacklist config to file: D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\blacklist.json
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering Mod Info...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Mod Info: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Mod Info: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Mod Info: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Mod Info: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Mod Info: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Mod Info: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering Mod Info took 903.9 ?s
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering categories...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 95.57 milliseconds
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering categories: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering categories took 113.0 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering vanilla category extensions...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering vanilla category extensions: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering vanilla category extensions: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering vanilla category extensions: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering vanilla category extensions: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering vanilla category extensions: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering vanilla category extensions: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering vanilla category extensions took 4.511 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering recipe catalysts...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipe catalysts: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipe catalysts: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipe catalysts: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipe catalysts: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipe catalysts: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipe catalysts: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering recipe catalysts took 1.382 ms
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building recipe registry...
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building recipe registry took 15.70 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering advanced plugins...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering advanced plugins: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering advanced plugins: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering advanced plugins: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering advanced plugins: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering advanced plugins: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering advanced plugins: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering advanced plugins took 1.257 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering recipes...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:crafting, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:crafting, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:stonecutting, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:smelting, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:smoking, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:blasting, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:campfire_cooking, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:fuel, recipeClass=interface mezz.jei.api.recipe.vanilla.IJeiFuelingRecipe]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:anvil, recipeClass=interface mezz.jei.api.recipe.vanilla.IJeiAnvilRecipe]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:smithing, recipeClass=class net.minecraft.world.item.crafting.RecipeHolder]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:compostable, recipeClass=interface mezz.jei.api.recipe.vanilla.IJeiCompostingRecipe]
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:brewing, recipeClass=interface mezz.jei.api.recipe.vanilla.IJeiBrewingRecipe]
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 181.2 milliseconds
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:internal...
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: Needs Netherite Tools (neoforge:needs_netherite_tool)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:invalid_spawn_inside (minecraft:invalid_spawn_inside)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:fire (minecraft:fire)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:strider_warm_blocks (minecraft:strider_warm_blocks)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:incorrect_for_diamond_tool (minecraft:incorrect_for_diamond_tool)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:portals (minecraft:portals)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: Enderman Place On Blacklist (neoforge:enderman_place_on_blacklist)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: Relocation Not Supported (c:relocation_not_supported)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:candle_cakes (minecraft:candle_cakes)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:incorrect_for_netherite_tool (minecraft:incorrect_for_netherite_tool)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: #minecraft:air (minecraft:air)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:block tag: Ropes (c:ropes)
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:tag_recipes/block, recipeClass=interface mezz.jei.library.plugins.jei.tags.ITagInfoRecipe]
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Potion (c:potion)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Rabbit Stew (c:rabbit_stew)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Beetroot Soup (c:beetroot_soup)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Suspicious Stew (c:suspicious_stew)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Gaseous (c:gaseous)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Honey (c:honey)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Milk (c:milk)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Mushroom Stew (c:mushroom_stew)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:fluid tag: Experience (c:experience)
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:tag_recipes/fluid, recipeClass=interface mezz.jei.library.plugins.jei.tags.ITagInfoRecipe]
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:item tag: Wrenches (c:tools/wrench)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:item tag: Juice (c:drinks/juice)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:item tag: Water (c:drinks/water)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:item tag: Candies (c:foods/candy)
+[19:01:17] [Render thread/DEBUG] [me.je.li.pl.je.ta.TagInfoRecipeMaker/]: No valid ingredients found for minecraft:item tag: Ropes (c:ropes)
+[19:01:17] [Render thread/DEBUG] [me.je.li.re.RecipeManagerInternal/]: Adding recipes: RecipeType[uid=minecraft:tag_recipes/item, recipeClass=interface mezz.jei.library.plugins.jei.tags.ITagInfoRecipe]
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes: jei:internal took 45.08 milliseconds
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering recipes took 228.5 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering recipes transfer handlers...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes transfer handlers: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes transfer handlers: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes transfer handlers: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes transfer handlers: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes transfer handlers: jei:gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering recipes transfer handlers: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering recipes transfer handlers took 4.015 ms
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building runtime...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering gui handlers...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: curios:curios...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: curios:curios took 30.86 milliseconds
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: jei:neoforge_gui...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: jei:debug...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: jei:gui...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: jei:gui took 12.25 milliseconds
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering gui handlers: jei:internal...
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering gui handlers took 48.23 ms
+[19:01:17] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering Runtime...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: jei:minecraft...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: curios:curios...
+[19:01:17] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: jei:neoforge_gui...
+[19:01:17] [Render thread/INFO] [me.je.gu.st.JeiGuiStarter/]: Starting JEI GUI
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building ingredient list...
+[19:01:17] [Render thread/DEBUG] [me.je.gu.in.IngredientListElementFactory/]: Registering ingredients: ItemStack
+[19:01:17] [Render thread/DEBUG] [me.je.gu.in.IngredientListElementFactory/]: Registering ingredients: FluidStack
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building ingredient list took 25.05 ms
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building ingredient filter...
+[19:01:17] [Render thread/INFO] [me.je.gu.in.IngredientFilter/]: Adding 1599 ingredients
+[19:01:17] [Render thread/INFO] [me.je.gu.in.IngredientFilter/]: Added 1599 ingredients
+[19:01:17] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building ingredient filter took 312.6 ms
+[19:01:18] [Render thread/INFO] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: jei:neoforge_gui took 483.9 milliseconds
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: jei:debug...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: jei:gui...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Registering Runtime: jei:internal...
+[19:01:18] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Registering Runtime took 485.1 ms
+[19:01:18] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Building runtime took 540.6 ms
+[19:01:18] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Sending Runtime...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime: jei:minecraft...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime: curios:curios...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime: jei:neoforge_gui...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime: jei:debug...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime: jei:gui...
+[19:01:18] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime: jei:internal...
+[19:01:18] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Sending Runtime took 683.4 ?s
+[19:01:18] [Render thread/INFO] [me.je.co.ut.LoggedTimer/]: Starting JEI took 1.271 s
+[19:01:18] [Render thread/INFO] [minecraft/AdvancementTree]: Loaded 2 advancements
+[19:01:18] [JEI Config Save Delay/DEBUG] [me.je.co.co.fi.ConfigSerializer/]: Saving config file: D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-debug.ini
+[19:01:18] [JEI Config Save Delay/DEBUG] [me.je.co.co.fi.ConfigSerializer/]: Saving config file: D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-client.ini
+[19:01:18] [JEI Config Save Delay/DEBUG] [me.je.co.co.fi.ConfigSerializer/]: Saving config file: D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-colors.ini
+[19:01:18] [JEI Config Save Delay/DEBUG] [me.je.co.co.fi.ConfigSerializer/]: Saving config file: D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-mod-id-format.ini
+[19:01:19] [JEI Config File Watcher/DEBUG] [me.je.co.co.fi.FileWatcherThread/]: Detected changes in files:
+D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-mod-id-format.ini
+D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-client.ini
+D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-colors.ini
+D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-debug.ini
+[19:01:20] [Render thread/DEBUG] [me.je.co.co.fi.ConfigSerializer/]: Loading config file: D:\MinecraftModding\rpgem-alchemy-plus\runs\client\config\jei\jei-debug.ini
+[19:01:20] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[19:01:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:01:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:01:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:01:20] [Server thread/DEBUG] [ne.ne.ne.co.CommonHooks/WP]: Gathered mod list to write to world save New World
+[19:01:27] [Render thread/ERROR] [ne.ne.fm.ja.FMLModContainer/]: Exception caught during firing event: The stack count must be 1 for 0 minecraft:air
+	Index: 0
+	Listeners:
+		0: net.kankrittapon.rpgem.forging.RPGEMForging$$Lambda/0x000001e65add6f20@6850a239
+java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.assertStackCount(BuildCreativeModeTabContentsEvent.java:202)
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.accept(BuildCreativeModeTabContentsEvent.java:91)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab$Output.accept(CreativeModeTab.java:441)
+	at TRANSFORMER/rpgem_forging@1.0.0/net.kankrittapon.rpgem.forging.RPGEMForging.addCreative(RPGEMForging.java:49)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:342)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:177)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358)
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.lambda$buildAllTabContents$48(CreativeModeTabs.java:1957)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.buildAllTabContents(CreativeModeTabs.java:1957)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.tryRebuildTabContents(CreativeModeTabs.java:1966)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.tryRebuildTabContents(CreativeModeInventoryScreen.java:157)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:133)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.InventoryScreen.init(InventoryScreen.java:63)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.init(Screen.java:337)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.setScreen(Minecraft.java:1063)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.handleKeybinds(Minecraft.java:1986)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.tick(Minecraft.java:1849)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1167)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210)
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69)
+
+[19:01:27] [Render thread/ERROR] [ne.ne.fm.ModContainer/LOADING]: Caught exception during event net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent@2f9ceea8 dispatch for modid rpgem_forging
+java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.assertStackCount(BuildCreativeModeTabContentsEvent.java:202) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent.accept(BuildCreativeModeTabContentsEvent.java:91) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab$Output.accept(CreativeModeTab.java:441) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading}
+	at TRANSFORMER/rpgem_forging@1.0.0/net.kankrittapon.rpgem.forging.RPGEMForging.addCreative(RPGEMForging.java:49) ~[rpgem_forging-1.0.0.jar%23199!/:?] {re:classloading}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:342) ~[bus-8.0.5.jar%23154!/:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:177) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.lambda$buildAllTabContents$48(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?] {}
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?] {}
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.buildAllTabContents(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.tryRebuildTabContents(CreativeModeTabs.java:1966) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.tryRebuildTabContents(CreativeModeInventoryScreen.java:157) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:133) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.InventoryScreen.init(InventoryScreen.java:63) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.init(Screen.java:337) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.setScreen(Minecraft.java:1063) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.handleKeybinds(Minecraft.java:1986) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.tick(Minecraft.java:1849) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1167) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?] {}
+[19:01:27] [Render thread/ERROR] [minecraft/Minecraft]: Unreported exception thrown!
+net.neoforged.fml.ModLoadingException: Loading errors encountered:
+	- RPGEM Forging+ (rpgem_forging) encountered an error while dispatching the net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent event
+	  java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:181) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.lambda$buildAllTabContents$48(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?] {}
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?] {}
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.buildAllTabContents(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.tryRebuildTabContents(CreativeModeTabs.java:1966) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.tryRebuildTabContents(CreativeModeInventoryScreen.java:157) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:133) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.InventoryScreen.init(InventoryScreen.java:63) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.init(Screen.java:337) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.setScreen(Minecraft.java:1063) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.handleKeybinds(Minecraft.java:1986) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.tick(Minecraft.java:1849) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1167) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?] {}
+[19:01:27] [Render thread/DEBUG] [os.ut.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@7918c7f8
+[19:01:28] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[19:01:28] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[19:01:28] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[19:01:31] [Server thread/DEBUG] [ne.ne.ne.co.CommonHooks/WP]: Gathered mod list to write to world save New World
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:01:31] [Server thread/INFO] [minecraft/MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:01:31] [Server thread/DEBUG] [ne.ne.fm.co.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[19:01:31] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver received class net.neoforged.neoforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[19:01:31] [Render thread/INFO] [me.je.ne.st.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to LISTENING
+[19:01:31] [Render thread/INFO] [me.je.li.st.JeiStarter/]: Stopping JEI
+[19:01:31] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Sending Runtime Unavailable...
+[19:01:31] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: jei:minecraft...
+[19:01:31] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: curios:curios...
+[19:01:31] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: jei:neoforge_gui...
+[19:01:31] [Render thread/INFO] [me.je.ne.pl.ne.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[19:01:31] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: jei:debug...
+[19:01:31] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: jei:gui...
+[19:01:31] [Render thread/DEBUG] [me.je.li.lo.PluginCallerTimerRunnable/]: Sending Runtime Unavailable: jei:internal...
+[19:01:31] [Render thread/INFO] [me.je.li.lo.PluginCaller/]: Sending Runtime Unavailable took 3.455 ms
+[19:01:32] [Render thread/FATAL] [ne.ne.ne.co.NeoForgeMod/]: Preparing crash report with UUID 7ebeb770-9249-413b-92fb-b746aac41272
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 2026-02-19 19:01:32
+Description: Unexpected error
+
+net.neoforged.fml.ModLoadingException: Loading errors encountered:
+	- RPGEM Forging+ (rpgem_forging) encountered an error while dispatching the net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent event
+	  java.lang.IllegalArgumentException: The stack count must be 1 for 0 minecraft:air
+
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:181) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.lambda$buildAllTabContents$48(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?] {}
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?] {}
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.buildAllTabContents(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.tryRebuildTabContents(CreativeModeTabs.java:1966) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.tryRebuildTabContents(CreativeModeInventoryScreen.java:157) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:133) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.InventoryScreen.init(InventoryScreen.java:63) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.init(Screen.java:337) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.setScreen(Minecraft.java:1063) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.handleKeybinds(Minecraft.java:1986) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.tick(Minecraft.java:1849) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.runTick(Minecraft.java:1167) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:813) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:181) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$postEvent$13(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModList.forEachModInOrder(ModList.java:174) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.postEvent(ModLoader.java:358) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at TRANSFORMER/neoforge@21.1.217/net.neoforged.neoforge.event.EventHooks.onCreativeModeTabBuildContents(EventHooks.java:1121) ~[neoforge-21.1.217.jar%23196!/:?] {re:classloading}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTab.buildContents(CreativeModeTab.java:147) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.lambda$buildAllTabContents$48(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?] {}
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?] {}
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?] {}
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?] {}
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?] {}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.buildAllTabContents(CreativeModeTabs.java:1957) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.CreativeModeTabs.tryRebuildTabContents(CreativeModeTabs.java:1966) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.tryRebuildTabContents(CreativeModeInventoryScreen.java:157) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen.<init>(CreativeModeInventoryScreen.java:133) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.inventory.InventoryScreen.init(InventoryScreen.java:63) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.gui.screens.Screen.init(Screen.java:337) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.setScreen(Minecraft.java:1063) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.handleKeybinds(Minecraft.java:1986) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+-- Uptime --
+Details:
+	JVM uptime: 74.166s
+	Wall uptime: 56.607s
+	High-res time: 70.268s
+	Client ticks: 867 ticks / 43.350s
+Stacktrace:
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.fillReport(Minecraft.java:2409) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.emergencySaveAndCrash(Minecraft.java:874) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.Minecraft.run(Minecraft.java:834) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.client.main.Main.main(Main.java:230) ~[neoforge-21.1.217.jar%23195!/:?] {re:classloading,pl:runtimedistcleaner:A}
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?] {}
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.NeoForgeClientDevLaunchHandler.runService(NeoForgeClientDevLaunchHandler.java:23) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.42.jar%23150!/:4.0] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.5/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.5.jar%23132!/:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?] {}
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?] {}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [LocalPlayer['Dev'/1, l='ClientLevel', x=-4.93, y=-59.00, z=1.18]]
+	Chunk stats: 961, 598
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (0,-60,0), Section: (at 0,4,0 in 0,-4,0; chunk contains blocks 0,-64,0 to 15,319,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 115 game time, 115 day time
+	Server brand: neoforge
+	Server type: Integrated singleplayer server
+	Tracked entity count: 78
+
+-- Last reload --
+Details:
+	Reload number: 1
+	Reload reason: initial
+	Finished: Yes
+	Packs: vanilla, mod_resources, mod/rpgem_core, mod/curios, mod/rpgem_forging, mod/geckolib, mod/neoforge, mod/rpgem_alchemy, mod/jei
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.10, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+	Memory: 303562752 bytes (289 MiB) / 771751936 bytes (736 MiB) up to 2067791872 bytes (1972 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: 12th Gen Intel(R) Core(TM) i3-12100T
+	Identifier: Intel64 Family 6 Model 151 Stepping 5
+	Microarchitecture: Alder Lake
+	Frequency (GHz): 2.19
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: Intel(R) UHD Graphics 730
+	Graphics card #0 vendor: Intel Corporation
+	Graphics card #0 VRAM (MiB): 2048.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.101.7026
+	Memory slot #0 capacity (MiB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 3.20
+	Memory slot #0 type: DDR4
+	Virtual memory max (MiB): 20820.51
+	Virtual memory used (MiB): 19423.50
+	Swap memory total (MiB): 12939.78
+	Swap memory used (MiB): 3934.61
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 18071.30, total: 177622.00
+	Space in storage for workdir (MiB): available: 272298.16, total: 307904.00
+	JVM Flags: 1 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	Launched Version: 21.1.217
+	Backend library: LWJGL version 3.3.3+5
+	Backend API: Intel(R) UHD Graphics 730 GL version 4.6.0 - Build 32.0.101.7026, Intel
+	Window size: 854x480
+	GFLW Platform: win32
+	GL Caps: Using framebuffer using OpenGL 3.2
+	GL debug messages: 
+	Is Modded: Definitely; Client brand changed to 'neoforge'; Server brand changed to 'neoforge'
+	Universe: 400921fb54442d18
+	Type: Integrated Server (map_client.txt)
+	Graphics mode: fancy
+	Render Distance: 12/12 chunks
+	Resource Packs: vanilla, mod_resources, mod/rpgem_core, mod/curios (incompatible), mod/rpgem_forging, mod/geckolib, mod/neoforge, mod/rpgem_alchemy, mod/jei (incompatible)
+	Current Language: en_us
+	Locale: en_US
+	System encoding: Cp1252
+	File encoding: windows-1252
+	CPU: 8x 12th Gen Intel(R) Core(TM) i3-12100T
+	Server Running: true
+	Player Count: 1 / 8; [ServerPlayer['Dev'/1, l='ServerLevel[New World]', x=-4.93, y=-59.00, z=1.18]]
+	Active Data Packs: vanilla, mod_data, mod/rpgem_core, mod/curios (incompatible), mod/rpgem_forging, mod/geckolib, mod/neoforge, mod/rpgem_alchemy, mod/jei (incompatible)
+	Available Data Packs: bundle, trade_rebalance, vanilla, mod/curios (incompatible), mod/geckolib, mod/jei (incompatible), mod/neoforge, mod/rpgem_alchemy, mod/rpgem_core, mod/rpgem_forging, mod_data
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: -8238586816479341536
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclientdev
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.42.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.42.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.42.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		curios-neoforge-9.4.0+1.21.1.jar                  |Curios API                    |curios                        |9.4.0+1.21.1        |Manifest: NOSIGNATURE
+		geckolib-neoforge-1.21.1-4.7.jar                  |GeckoLib 4                    |geckolib                      |4.7                 |Manifest: NOSIGNATURE
+		jei-1.21.1-neoforge-19.21.0.247.jar               |Just Enough Items             |jei                           |19.21.0.247         |Manifest: NOSIGNATURE
+		neoforge-21.1.217.jar                             |Minecraft                     |minecraft                     |1.21.1              |Manifest: NOSIGNATURE
+		neoforge-21.1.217.jar                             |NeoForge                      |neoforge                      |21.1.217            |Manifest: NOSIGNATURE
+		main                                              |RPGEM Alchemy+                |rpgem_alchemy                 |1.0.0               |Manifest: NOSIGNATURE
+		rpgem_core-1.0.0.jar                              |RPGEM Core                    |rpgem_core                    |1.0.0               |Manifest: NOSIGNATURE
+		rpgem_forging-1.0.0.jar                           |RPGEM Forging+                |rpgem_forging                 |1.0.0               |Manifest: NOSIGNATURE
+	Crash Report UUID: 7ebeb770-9249-413b-92fb-b746aac41272
+	FML: 4.0.42
+	NeoForge: 21.1.217
+[19:01:32] [Render thread/FATAL] [ne.ne.ne.co.NeoForgeMod/]: Preparing crash report with UUID f98550fb-335c-4863-810a-53f356143b7f
+#@!@# Game crashed! Crash report saved to: #@!@# D:\MinecraftModding\rpgem-alchemy-plus\runs\client\.\crash-reports\crash-2026-02-19_19.01.32-client.txt
+
+> Task :runClient FAILED
+
+[Incubating] Problems report is available at: file:///D:/MinecraftModding/rpgem-alchemy-plus/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':runClient'.
+> Process 'command 'C:\Users\telep\.gradle\jdks\eclipse_adoptium-21-amd64-windows.2\bin\java.exe'' finished with non-zero exit value -1
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to generate a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.2.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 1m 29s
+78 actionable tasks: 6 executed, 72 up-to-date

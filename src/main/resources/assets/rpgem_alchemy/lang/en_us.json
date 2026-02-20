@@ -1,0 +1,17 @@
+{
+    "entity.minecraft.villager.rpgem_alchemy.alchemist": "Alchemist",
+    "block.rpgem_alchemy.alchemy_table": "Alchemy Table",
+    "block.rpgem_alchemy.tome_of_forgotten_table": "Tome of Forgotten Table",
+    "item.rpgem_alchemy.ethernal_bottle": "Ethernal Bottle",
+    "item.rpgem_alchemy.infinite_potion_tier_1": "Infinite Potion (Tier 1)",
+    "item.rpgem_alchemy.infinite_potion_tier_2": "Infinite Potion (Tier 2)",
+    "item.rpgem_alchemy.infinite_potion_tier_3": "Infinite Potion (Tier 3)",
+    "item.rpgem_alchemy.bone_of_maze": "Bone of Maze",
+    "item.rpgem_alchemy.cosmic_emerald": "Cosmic Emerald",
+    "item.rpgem_alchemy.zombie_heart": "Zombie Heart",
+    "effect.rpgem_alchemy.boundless_grace": "Boundless Grace",
+    "effect.rpgem_alchemy.juggernaut": "Juggernaut",
+    "effect.rpgem_alchemy.iron_thorns": "Iron Thorns",
+    "effect.rpgem_alchemy.evasion": "Evasion",
+    "effect.rpgem_alchemy.unstoppable": "Unstoppable"
+}

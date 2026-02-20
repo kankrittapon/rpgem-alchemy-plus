@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Logs & Run
+logs/
+*.log
+run/
+runClient/
+runServer/
+runData/
+debug.log
+debug.log.gz
+latest.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak

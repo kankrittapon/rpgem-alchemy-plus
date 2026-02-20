@@ -1,0 +1,8 @@
+JVM Args:          
+Run Args:          "--client", "D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\stripClient\outputs.jar", "--server", "D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\stripServer\outputs.jar", "--ann", "1.21.1", "--output", "D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\merge\outputs.jar", "--inject", "false"
+JVM:               C:\Users\telep\.gradle\jdks\eclipse_adoptium-21-amd64-windows.2\bin\java.exe
+Classpath:         C:\Users\telep\.gradle\caches\modules-2\files-2.1\net.neoforged\mergetool\2.0.3\85c096b0155715275f84922d41462484c9a0285c\mergetool-2.0.3-fatjar.jar
+Working Dir:       D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\merge
+Main Class:        net.neoforged.mergetool.ConsoleMerger
+Program log file:  D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\merge\log.log
+Output file:       D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\merge\outputs.jar

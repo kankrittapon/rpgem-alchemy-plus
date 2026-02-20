@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "rpgem_alchemy:item/infinite_potion_tier_3"
+    }
+}

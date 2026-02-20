@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/YourName/rpgem-alchemy-plus/issues"
+
+[[mods]]
+modId="rpgem_alchemy"
+version="1.0.0"
+displayName="RPGEM Alchemy+"
+displayURL="https://github.com/YourName/rpgem-alchemy-plus"
+logoFile="logo.png"
+authors="Kankrittapon"
+description='''
+Alchemy module for RPGEM. Adds Potion brewing, Alchemy Table, and powerful effects.
+'''
+
+[[dependencies.rpgem_alchemy]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rpgem_alchemy]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rpgem_alchemy]]
+    modId="rpgem_core"
+    type="required"
+    versionRange="1.0.0"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.rpgem_alchemy]]
+    modId="rpgem_forging"
+    type="required"
+    versionRange="1.0.0"
+    ordering="AFTER"
+    side="BOTH"

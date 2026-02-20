@@ -18,16 +18,20 @@ bin/
 # VS Code
 .vscode/
 
-# Logs & Run
-logs/
-*.log
+# Logs & Run Game Directories
 run/
 runClient/
 runServer/
 runData/
+logs/
+crash-reports/
+
+# Log Files & Text Output
+*.log
+*.log.gz
 debug.log
-debug.log.gz
 latest.log
+*.txt
 
 # OS
 .DS_Store

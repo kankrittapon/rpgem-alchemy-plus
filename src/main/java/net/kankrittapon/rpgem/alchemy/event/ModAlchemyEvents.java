@@ -3,6 +3,7 @@ package net.kankrittapon.rpgem.alchemy.event;
 import net.kankrittapon.rpgem.alchemy.RPGEMAlchemy;
 import net.kankrittapon.rpgem.alchemy.init.ModAlchemyItems;
 import net.kankrittapon.rpgem.alchemy.init.ModAlchemyVillagers;
+import net.kankrittapon.rpgem.core.init.ModItems;
 import net.minecraft.world.entity.npc.VillagerTrades;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
@@ -50,7 +51,7 @@ public class ModAlchemyEvents {
                         level3.add(new BasicItemListing(
                                         new ItemStack(Items.NETHERITE_BLOCK, 32),
                                         new ItemStack(Items.DIAMOND_BLOCK, 32),
-                                        new ItemStack(ModAlchemyItems.ETHERNAL_BOTTLE.get()),
+                                        new ItemStack(ModItems.ETHERNAL_BOTTLE.get()),
                                         3, 20, 0.05f));
 
                         // Level 4: Expert
@@ -97,7 +98,7 @@ public class ModAlchemyEvents {
                                         net.minecraft.network.chat.Component.literal("§6Elixir of Vitality"));
 
                         level5.add(new BasicItemListing(
-                                        new ItemStack(ModAlchemyItems.ETHERNAL_BOTTLE.get()),
+                                        new ItemStack(ModItems.ETHERNAL_BOTTLE.get()),
                                         new ItemStack(Items.NETHER_STAR, 1),
                                         superPotion,
                                         3, 30, 0.05f));
@@ -121,7 +122,7 @@ public class ModAlchemyEvents {
                                                         ModAlchemyItems.PIECE_OF_HEART.get()) >= 100) {
                                                 consumeItemFromInventory(player, ModAlchemyItems.PIECE_OF_HEART.get(),
                                                                 100);
-                                                player.addItem(new ItemStack(ModAlchemyItems.ZOMBIE_HEART.get()));
+                                                player.addItem(new ItemStack(ModItems.ZOMBIE_HEART.get()));
                                                 playExchangeSound(player);
                                                 player.sendSystemMessage(net.minecraft.network.chat.Component.literal(
                                                                 "§6[Alchemist]§e A Zombie Heart! Pure vitality condensed."));
@@ -134,7 +135,7 @@ public class ModAlchemyEvents {
                                         if (getInventoryItemCount(player, ModAlchemyItems.PIECE_OF_BONE.get()) >= 100) {
                                                 consumeItemFromInventory(player, ModAlchemyItems.PIECE_OF_BONE.get(),
                                                                 100);
-                                                player.addItem(new ItemStack(ModAlchemyItems.BONE_OF_MAZE.get()));
+                                                player.addItem(new ItemStack(ModItems.BONE_OF_MAZE.get()));
                                                 playExchangeSound(player);
                                                 player.sendSystemMessage(net.minecraft.network.chat.Component.literal(
                                                                 "§6[Alchemist]§e The Bone of Maze... structure and resilience."));
@@ -148,7 +149,7 @@ public class ModAlchemyEvents {
                                                         ModAlchemyItems.PIECE_OF_COSMIC_EMERALD.get()) >= 100) {
                                                 consumeItemFromInventory(player,
                                                                 ModAlchemyItems.PIECE_OF_COSMIC_EMERALD.get(), 100);
-                                                player.addItem(new ItemStack(ModAlchemyItems.COSMIC_EMERALD.get()));
+                                                player.addItem(new ItemStack(ModItems.COSMIC_EMERALD.get()));
                                                 playExchangeSound(player);
                                                 player.sendSystemMessage(net.minecraft.network.chat.Component.literal(
                                                                 "§6[Alchemist]§e A Cosmic Emerald! The energy of the universe."));
@@ -160,14 +161,14 @@ public class ModAlchemyEvents {
                                 }
 
                                 // === 2. POTION INFUSION (Dynamic Upgrade) ===
-                                if (heldItem.is(ModAlchemyItems.ETHERNAL_BOTTLE.get()) ||
+                                if (heldItem.is(ModItems.ETHERNAL_BOTTLE.get()) ||
                                                 heldItem.getItem() instanceof net.kankrittapon.rpgem.alchemy.item.SequentialInfinitePotion) {
 
                                         List<String> history = getIngredientHistory(heldItem);
                                         ItemStack nextPotion = ItemStack.EMPTY;
 
                                         // Determine Next Tier
-                                        if (heldItem.is(ModAlchemyItems.ETHERNAL_BOTTLE.get())) {
+                                        if (heldItem.is(ModItems.ETHERNAL_BOTTLE.get())) {
                                                 nextPotion = new ItemStack(
                                                                 ModAlchemyItems.INFINITE_POTION_TIER_1.get());
                                         } else if (heldItem.is(ModAlchemyItems.INFINITE_POTION_TIER_1.get())) {
@@ -186,17 +187,17 @@ public class ModAlchemyEvents {
                                         net.minecraft.world.item.Item ingredientItem = null;
 
                                         if (!history.contains("H") && hasItemInInventory(player,
-                                                        ModAlchemyItems.ZOMBIE_HEART.get())) {
+                                                        ModItems.ZOMBIE_HEART.get())) {
                                                 ingredientCode = "H";
-                                                ingredientItem = ModAlchemyItems.ZOMBIE_HEART.get();
+                                                ingredientItem = ModItems.ZOMBIE_HEART.get();
                                         } else if (!history.contains("B") && hasItemInInventory(player,
-                                                        ModAlchemyItems.BONE_OF_MAZE.get())) {
+                                                        ModItems.BONE_OF_MAZE.get())) {
                                                 ingredientCode = "B";
-                                                ingredientItem = ModAlchemyItems.BONE_OF_MAZE.get();
+                                                ingredientItem = ModItems.BONE_OF_MAZE.get();
                                         } else if (!history.contains("C") && hasItemInInventory(player,
-                                                        ModAlchemyItems.COSMIC_EMERALD.get())) {
+                                                        ModItems.COSMIC_EMERALD.get())) {
                                                 ingredientCode = "C";
-                                                ingredientItem = ModAlchemyItems.COSMIC_EMERALD.get();
+                                                ingredientItem = ModItems.COSMIC_EMERALD.get();
                                         }
 
                                         // Execute Infusion
@@ -222,7 +223,7 @@ public class ModAlchemyEvents {
                                                 event.setCancellationResult(
                                                                 net.minecraft.world.InteractionResult.SUCCESS);
                                         } else {
-                                                if (heldItem.is(ModAlchemyItems.ETHERNAL_BOTTLE.get())) {
+                                                if (heldItem.is(ModItems.ETHERNAL_BOTTLE.get())) {
                                                         player.sendSystemMessage(net.minecraft.network.chat.Component
                                                                         .literal("§6[Alchemist]§c I need a powerful catalyst (Heart, Bone, or Cosmic Emerald) to activate this bottle."));
                                                 } else {

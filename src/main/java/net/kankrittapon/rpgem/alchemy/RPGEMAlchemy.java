@@ -2,6 +2,7 @@ package net.kankrittapon.rpgem.alchemy;
 
 import com.mojang.logging.LogUtils;
 import net.kankrittapon.rpgem.core.init.ModCreativeModeTabs;
+import net.kankrittapon.rpgem.core.init.ModItems;
 import net.kankrittapon.rpgem.alchemy.init.ModAlchemyItems;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
@@ -29,12 +30,7 @@ public class RPGEMAlchemy {
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == ModCreativeModeTabs.RPGEM_TAB_KEY) {
-            // Ingredients
-            event.accept(ModAlchemyItems.BONE_OF_MAZE);
-            event.accept(ModAlchemyItems.COSMIC_EMERALD);
-            event.accept(ModAlchemyItems.ETHERNAL_BOTTLE);
-            event.accept(ModAlchemyItems.ZOMBIE_HEART);
-            // Quest Fragments (ย้ายมาจาก rpgem-fairy-plus)
+            // Quest Fragments (Alchemy)
             event.accept(ModAlchemyItems.PIECE_OF_HEART);
             event.accept(ModAlchemyItems.PIECE_OF_BONE);
             event.accept(ModAlchemyItems.PIECE_OF_COSMIC_EMERALD);

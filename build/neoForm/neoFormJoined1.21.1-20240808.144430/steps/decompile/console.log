@@ -1,8 +1,0 @@
-JVM Args:          "-Xmx4g"
-Run Args:          "-log=error", "--decompile-inner", "--remove-bridge", "--decompile-generics", "--ascii-strings", "--remove-synthetic", "--include-classpath", "--variable-renaming=jad", "--ignore-invalid-bytecode", "--bytecode-source-mapping", "--dump-code-lines", "--indent-string=    ", "-cfg", "D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\listLibraries\libraries.txt", "D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\rename\outputs.jar", "D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\decompile\outputs.jar"
-JVM:               C:\Users\telep\.gradle\jdks\eclipse_adoptium-21-amd64-windows.2\bin\java.exe
-Classpath:         C:\Users\telep\.gradle\caches\modules-2\files-2.1\org.vineflower\vineflower\1.10.1\4f48c5947b21f9ebc743e7c80215ee839d3dc668\vineflower-1.10.1.jar
-Working Dir:       D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\decompile
-Main Class:        org.jetbrains.java.decompiler.main.decompiler.ConsoleDecompiler
-Program log file:  D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\decompile\log.log
-Output file:       D:\MinecraftModding\neoforge-bokkchoy\build\neoForm\neoFormJoined1.21.1-20240808.144430\steps\decompile\outputs.jar

@@ -4,14 +4,7 @@ plugins {
     id 'net.neoforged.gradle.userdev' version '7.1.20'
 }
 
-tasks.named('wrapper', Wrapper).configure {
-    // Define wrapper values here so as to not have to always do so when updating gradlew.properties.
-    // Switching this to Wrapper.DistributionType.ALL will download the full gradle sources that comes with
-    // documentation attached on cursor hover of gradle classes and methods. However, this comes with increased
-    // file size for Gradle. If you do switch this to ALL, run the Gradle wrapper task twice afterwards.
-    // (Verify by checking gradle/wrapper/gradle-wrapper.properties to see if distributionUrl now points to `-all`)
-    distributionType = Wrapper.DistributionType.BIN
-}
+// Wrapper is handled at root
 
 version = mod_version
 group = mod_group_id
@@ -47,52 +40,28 @@ base {
 }
 
 // Mojang ships Java 21 to end users in 1.21.1, so mods should target Java 21.
-java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(21)
+}
 
 //minecraft.accessTransformers.file rootProject.file('src/main/resources/META-INF/accesstransformer.cfg')
 //minecraft.accessTransformers.entry public net.minecraft.client.Minecraft textureManager # textureManager
 
 // Default run configurations.
-// These can be tweaked, removed, or duplicated as needed.
+// ⚠️ ใช้ :rpgem-core:runClient สำหรับการทดสอบทั้งหมด
+// โมดูลนี้ไม่มี runClient เป็นของตัวเอง
 runs {
     // applies to all the run configs below
     configureEach {
-        // Recommended logging data for a userdev environment
-        // The markers can be added/remove as needed separated by commas.
-        // "SCAN": For mods scan.
-        // "REGISTRIES": For firing of registry events.
-        // "REGISTRYDUMP": For getting the contents of all registries.
         systemProperty 'forge.logging.markers', 'REGISTRIES'
-
-        // Recommended logging level for the console
-        // You can set various levels here.
-        // Please read: https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels
         systemProperty 'forge.logging.console.level', 'debug'
-
         modSource project.sourceSets.main
     }
-
     client {
-        // Comma-separated list of namespaces to load gametests from. Empty = all namespaces.
-        systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
-    }
-
-    server {
-        systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
-        argument '--nogui'
-    }
-
-    // This run config launches GameTestServer and runs all registered gametests, then exits.
-    // By default, the server will crash when no gametests are provided.
-    // The gametest system is also enabled by default for other run configs under the /test command.
-    gameTestServer {
         systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
     }
 
     data {
-        // example of overriding the workingDirectory set in configureEach above, uncomment if you want to use it
-        // workingDirectory project.file('run-data')
-
         // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
         arguments.addAll '--mod', project.mod_id, '--all', '--output', file('src/generated/resources/').getAbsolutePath(), '--existing', file('src/main/resources/').getAbsolutePath()
     }
@@ -112,11 +81,11 @@ configurations {
 dependencies {
     // Specify the version of Minecraft to use.
     implementation "net.neoforged:neoforge:${neo_version}"
-    implementation "net.kankrittapon.rpgem.core:rpgem-core:1.0.0"
-    implementation "net.kankrittapon.rpgem.forging:rpgem-forging-plus:1.0.0"
+    implementation project(':rpgem-core')
+    implementation project(':rpgem-forging-plus')
 
     // Load rpgem-fairy-plus at runtime for integrated testing
-    localRuntime "net.kankrittapon.rpgem.fairy:rpgem-fairy-plus:1.0.0"
+    localRuntime project(':rpgem-fairy-plus')
 
     // JEI Integration
     compileOnly "mezz.jei:jei-1.21.1-neoforge-api:19.21.0.247"

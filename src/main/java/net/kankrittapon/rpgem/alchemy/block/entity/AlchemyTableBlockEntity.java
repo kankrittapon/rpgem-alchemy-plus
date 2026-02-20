@@ -3,6 +3,7 @@ package net.kankrittapon.rpgem.alchemy.block.entity;
 import net.kankrittapon.rpgem.alchemy.init.ModAlchemyBlockEntities;
 import net.kankrittapon.rpgem.alchemy.init.ModAlchemyItems;
 import net.kankrittapon.rpgem.alchemy.menu.AlchemyTableMenu;
+import net.kankrittapon.rpgem.core.init.ModItems;
 import net.kankrittapon.rpgem.forging.init.ModForgingItems;
 import net.kankrittapon.rpgem.alchemy.item.SequentialInfinitePotion;
 import net.minecraft.core.BlockPos;
@@ -42,16 +43,16 @@ public class AlchemyTableBlockEntity extends BlockEntity implements MenuProvider
         @Override
         public boolean isItemValid(int slot, ItemStack stack) {
             return switch (slot) {
-                case 0 -> stack.getItem() == ModAlchemyItems.ETHERNAL_BOTTLE.get() ||
+                case 0 -> stack.getItem() == ModItems.ETHERNAL_BOTTLE.get() ||
                         stack.getItem() == ModAlchemyItems.INFINITE_POTION_TIER_1.get() ||
                         stack.getItem() == ModAlchemyItems.INFINITE_POTION_TIER_2.get() ||
                         stack.getItem() == ModForgingItems.UPGRADE_STONE_TIER_2.get() ||
                         stack.getItem() == ModForgingItems.FORGED_STONE_FORTITUDE.get() ||
                         stack.getItem() == ModForgingItems.FORGED_STONE_AGILITY.get() ||
                         stack.getItem() == ModForgingItems.FORGED_STONE_DESTRUCTION.get();
-                case 1, 2, 3 -> stack.getItem() == ModAlchemyItems.ZOMBIE_HEART.get() ||
-                        stack.getItem() == ModAlchemyItems.BONE_OF_MAZE.get() ||
-                        stack.getItem() == ModAlchemyItems.COSMIC_EMERALD.get() ||
+                case 1, 2, 3 -> stack.getItem() == ModItems.ZOMBIE_HEART.get() ||
+                        stack.getItem() == ModItems.BONE_OF_MAZE.get() ||
+                        stack.getItem() == ModItems.COSMIC_EMERALD.get() ||
                         stack.getItem() == ModForgingItems.UPGRADE_STONE_TIER_3.get();
                 case 4 -> false; // Output slot
                 default -> super.isItemValid(slot, stack);
@@ -227,11 +228,11 @@ public class AlchemyTableBlockEntity extends BlockEntity implements MenuProvider
     }
 
     private String getIngredientName(ItemStack stack) {
-        if (stack.is(ModAlchemyItems.ZOMBIE_HEART.get()))
+        if (stack.is(ModItems.ZOMBIE_HEART.get()))
             return "H";
-        if (stack.is(ModAlchemyItems.BONE_OF_MAZE.get()))
+        if (stack.is(ModItems.BONE_OF_MAZE.get()))
             return "B";
-        if (stack.is(ModAlchemyItems.COSMIC_EMERALD.get()))
+        if (stack.is(ModItems.COSMIC_EMERALD.get()))
             return "C";
         return stack.getItem().toString();
     }
@@ -259,7 +260,7 @@ public class AlchemyTableBlockEntity extends BlockEntity implements MenuProvider
         Item output = null;
         int time = 0;
 
-        if (input.is(ModAlchemyItems.ETHERNAL_BOTTLE.get())) {
+        if (input.is(ModItems.ETHERNAL_BOTTLE.get())) {
             output = ModAlchemyItems.INFINITE_POTION_TIER_1.get();
             time = 200;
         } else if (input.is(ModAlchemyItems.INFINITE_POTION_TIER_1.get())) {
@@ -271,12 +272,12 @@ public class AlchemyTableBlockEntity extends BlockEntity implements MenuProvider
         } else if (input.is(ModForgingItems.UPGRADE_STONE_TIER_2.get())) {
             time = 300;
             for (ItemStack ing : availableIngredients) {
-                if (ing.is(ModAlchemyItems.ZOMBIE_HEART.get()))
+                if (ing.is(ModItems.ZOMBIE_HEART.get()))
                     return new CraftingContext(ModForgingItems.FORGED_STONE_FORTITUDE.get(), time, usedIngredients,
                             ing);
-                if (ing.is(ModAlchemyItems.BONE_OF_MAZE.get()))
+                if (ing.is(ModItems.BONE_OF_MAZE.get()))
                     return new CraftingContext(ModForgingItems.FORGED_STONE_AGILITY.get(), time, usedIngredients, ing);
-                if (ing.is(ModAlchemyItems.COSMIC_EMERALD.get()))
+                if (ing.is(ModItems.COSMIC_EMERALD.get()))
                     return new CraftingContext(ModForgingItems.FORGED_STONE_DESTRUCTION.get(), time, usedIngredients,
                             ing);
             }
